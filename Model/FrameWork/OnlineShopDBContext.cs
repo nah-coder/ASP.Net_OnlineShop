@@ -8,7 +8,7 @@ namespace Model.FrameWork
     public partial class OnlineShopDBContext : DbContext
     {
         public OnlineShopDBContext()
-            : base("name=OnlineShopDBContext")
+            : base("name=OnlineShopDBContext1")
         {
         }
 
@@ -20,6 +20,7 @@ namespace Model.FrameWork
         public virtual DbSet<Feedback> Feedbacks { get; set; }
         public virtual DbSet<Footer> Footers { get; set; }
         public virtual DbSet<Menu> Menus { get; set; }
+        public virtual DbSet<MenuType> MenuTypes { get; set; }
         public virtual DbSet<Product> Products { get; set; }
         public virtual DbSet<ProductCategory> ProductCategories { get; set; }
         public virtual DbSet<Slide> Slides { get; set; }
@@ -115,10 +116,6 @@ namespace Model.FrameWork
 
             modelBuilder.Entity<Slide>()
                 .Property(e => e.ModifiedBy)
-                .IsUnicode(false);
-
-            modelBuilder.Entity<Slide>()
-                .Property(e => e.Status)
                 .IsUnicode(false);
 
             modelBuilder.Entity<SystemConfig>()

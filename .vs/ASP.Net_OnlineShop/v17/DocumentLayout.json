@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\intern\\Luvina\\ASP.Net\\ASP.Net_OnlineShop\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1BC082-094B-443F-81F7-5AB1FEDF2D9F}|ASP.Net_OnlineShop\\ASP.Net_OnlineShop.csproj|d:\\intern\\luvina\\asp.net\\asp.net_onlineshop\\asp.net_onlineshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1BC082-094B-443F-81F7-5AB1FEDF2D9F}|ASP.Net_OnlineShop\\ASP.Net_OnlineShop.csproj|solutionrelative:asp.net_onlineshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1BC082-094B-443F-81F7-5AB1FEDF2D9F}|ASP.Net_OnlineShop\\ASP.Net_OnlineShop.csproj|d:\\intern\\luvina\\asp.net\\asp.net_onlineshop\\asp.net_onlineshop\\views\\product\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E1BC082-094B-443F-81F7-5AB1FEDF2D9F}|ASP.Net_OnlineShop\\ASP.Net_OnlineShop.csproj|solutionrelative:asp.net_onlineshop\\views\\product\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232D2AF8-EE16-4B4F-8EA0-B7CF558E59DD}|Model\\Model.csproj|d:\\intern\\luvina\\asp.net\\asp.net_onlineshop\\model\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232D2AF8-EE16-4B4F-8EA0-B7CF558E59DD}|Model\\Model.csproj|solutionrelative:model\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1BC082-094B-443F-81F7-5AB1FEDF2D9F}|ASP.Net_OnlineShop\\ASP.Net_OnlineShop.csproj|d:\\intern\\luvina\\asp.net\\asp.net_onlineshop\\asp.net_onlineshop\\views\\shared\\productcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E1BC082-094B-443F-81F7-5AB1FEDF2D9F}|ASP.Net_OnlineShop\\ASP.Net_OnlineShop.csproj|solutionrelative:asp.net_onlineshop\\views\\shared\\productcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1BC082-094B-443F-81F7-5AB1FEDF2D9F}|ASP.Net_OnlineShop\\ASP.Net_OnlineShop.csproj|d:\\intern\\luvina\\asp.net\\asp.net_onlineshop\\asp.net_onlineshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E1BC082-094B-443F-81F7-5AB1FEDF2D9F}|ASP.Net_OnlineShop\\ASP.Net_OnlineShop.csproj|solutionrelative:asp.net_onlineshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +43,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDao.cs",
+              "DocumentMoniker": "D:\\intern\\Luvina\\ASP.Net\\ASP.Net_OnlineShop\\Model\\Dao\\ProductDao.cs",
+              "RelativeDocumentMoniker": "Model\\Dao\\ProductDao.cs",
+              "ToolTip": "D:\\intern\\Luvina\\ASP.Net\\ASP.Net_OnlineShop\\Model\\Dao\\ProductDao.cs",
+              "RelativeToolTip": "Model\\Dao\\ProductDao.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIAwwBEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:27:01.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\intern\\Luvina\\ASP.Net\\ASP.Net_OnlineShop\\ASP.Net_OnlineShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ASP.Net_OnlineShop\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\intern\\Luvina\\ASP.Net\\ASP.Net_OnlineShop\\ASP.Net_OnlineShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ASP.Net_OnlineShop\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:25:56.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCategory.cshtml",
+              "DocumentMoniker": "D:\\intern\\Luvina\\ASP.Net\\ASP.Net_OnlineShop\\ASP.Net_OnlineShop\\Views\\Shared\\ProductCategory.cshtml",
+              "RelativeDocumentMoniker": "ASP.Net_OnlineShop\\Views\\Shared\\ProductCategory.cshtml",
+              "ToolTip": "D:\\intern\\Luvina\\ASP.Net\\ASP.Net_OnlineShop\\ASP.Net_OnlineShop\\Views\\Shared\\ProductCategory.cshtml",
+              "RelativeToolTip": "ASP.Net_OnlineShop\\Views\\Shared\\ProductCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T07:32:11.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "D:\\intern\\Luvina\\ASP.Net\\ASP.Net_OnlineShop\\ASP.Net_OnlineShop\\Views\\Product\\Category.cshtml",
+              "RelativeDocumentMoniker": "ASP.Net_OnlineShop\\Views\\Product\\Category.cshtml",
+              "ToolTip": "D:\\intern\\Luvina\\ASP.Net\\ASP.Net_OnlineShop\\ASP.Net_OnlineShop\\Views\\Product\\Category.cshtml",
+              "RelativeToolTip": "ASP.Net_OnlineShop\\Views\\Product\\Category.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T07:32:06.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\intern\\Luvina\\ASP.Net\\ASP.Net_OnlineShop\\ASP.Net_OnlineShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP.Net_OnlineShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\intern\\Luvina\\ASP.Net\\ASP.Net_OnlineShop\\ASP.Net_OnlineShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP.Net_OnlineShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAAKQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T07:28:56.573Z",
+              "EditorCaption": ""
             }
           ]
         }

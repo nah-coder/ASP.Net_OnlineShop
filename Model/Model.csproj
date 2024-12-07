@@ -60,6 +60,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Dao\CategoryDao.cs" />
+    <Compile Include="Dao\ContentDao.cs" />
+    <Compile Include="Dao\FooterDao.cs" />
+    <Compile Include="Dao\MenuDao.cs" />
+    <Compile Include="Dao\ProductCategoryDao.cs" />
+    <Compile Include="Dao\ProductDao.cs" />
+    <Compile Include="Dao\SlideDao.cs" />
     <Compile Include="Dao\UserDao.cs" />
     <Compile Include="FrameWork\About.cs" />
     <Compile Include="FrameWork\Category.cs" />
@@ -69,6 +76,7 @@
     <Compile Include="FrameWork\Feedback.cs" />
     <Compile Include="FrameWork\Footer.cs" />
     <Compile Include="FrameWork\Menu.cs" />
+    <Compile Include="FrameWork\MenuType.cs" />
     <Compile Include="FrameWork\OnlineShopDBContext.cs" />
     <Compile Include="FrameWork\Product.cs" />
     <Compile Include="FrameWork\ProductCategory.cs" />

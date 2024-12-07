@@ -22,5 +22,10 @@ window.addEventListener('DOMContentLoaded', event => {
             localStorage.setItem('sb|sidebar-toggle', document.body.classList.contains('sb-sidenav-toggled'));
         });
     }
+    $(function () {
+        $('#AlertBox').removeClass('hide');
+        $('#AlertBox').delay(1000).slideUp(500);
+    });
+    
 
 });

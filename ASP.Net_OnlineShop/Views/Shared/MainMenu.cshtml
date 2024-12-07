@@ -1,0 +1,12 @@
+﻿
+@model List<Model.FrameWork.Menu>
+<nav class="header__menu">
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li><a href="@item.Link" target="@item.Target">@item.Text</a></li>
+            
+        }
+
+    </ul>
+</nav>
